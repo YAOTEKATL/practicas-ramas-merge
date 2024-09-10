@@ -17,6 +17,7 @@
         <br><p>SELECCIONA TU ROL:</p></br>
         <center><input type="submit" name="rol" value="Administrativo"></center>
         <center><input type="submit" name="rol" value="Alumno"></center>
+        <center><input type="button" value="<" onclick="Crear_rol()"></center>
     </form>
     </div>
 </div>
